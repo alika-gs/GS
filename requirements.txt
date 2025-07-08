@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+GoogleNews
+fastapi[all]
